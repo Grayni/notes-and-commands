@@ -10,4 +10,4 @@ commands: linux, npm, git, etc.
 ##### commands Git:
 
 1. cancel git add:<br>
-    __git commit --amend__
+    __git commit reset__
