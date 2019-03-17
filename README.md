@@ -7,7 +7,6 @@ commands: linux, npm, git, etc.
 1. add free right on redact and change npm:  
     __sudo chown -R $(whoami) ~/.npm__  
   
-  
 ##### commands Git:  
   
 1. cancel git add:  
