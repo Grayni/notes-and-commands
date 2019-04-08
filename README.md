@@ -19,9 +19,9 @@ commands: linux, npm, git, etc.
     __git remote -v__
 
 4. pass local repository in remote repository
-    __git init__
-    __git add your_file__
-    __git commit -m "first commit"__
-    __git remote add origin https://github.com/you_repository/you_project__
-    __git push -u origin master__ (or your branch instead master)
+    __git init__  
+    __git add your_file__  
+    __git commit -m "first commit"__  
+    __git remote add origin https://github.com/you_repository/you_project__  
+    __git push -u origin master__ (or your branch instead master)  
 
