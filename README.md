@@ -15,10 +15,10 @@ commands: linux, npm, git, etc.
 2. change on capital letter name of file for correct saving:  
     __git mv filename.txt FileName.txt –f__
 
-3. look current remote repository
+3. look current remote repository  
     __git remote -v__
 
-4. pass local repository in remote repository
+4. pass local repository in remote repository  
     __git init__  
     __git add your_file__  
     __git commit -m "first commit"__  
